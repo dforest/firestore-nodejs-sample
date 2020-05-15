@@ -1,0 +1,12 @@
+{
+  "name": "remote-sttings",
+  "description": "Listen to a firestore collection and update a local setting file.",
+  "main": "watch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "commander": "^2.20.0",
+    "firebase-admin": "^8.2.0"
+  }
+}
