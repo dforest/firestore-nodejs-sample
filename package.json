@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "commander": "^2.20.0",
-    "firebase-admin": "^8.2.0"
+    "firebase-admin": "^11.4.1"
   }
 }
